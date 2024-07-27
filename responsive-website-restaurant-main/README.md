@@ -8,3 +8,6 @@
 - Includes a dark & light theme.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+
+##To take a glance, run index.html through Live Server in VS Code
